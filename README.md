@@ -46,28 +46,28 @@ Target variable:
 ---
 
 ## Project Workflow
-1. Data collection​
-2. Preprocessing​
-   a. DATA CHECKING​
-      b. DATA CLEANING​
-      c. VERIFY FEATURE UNIT​
-      d. UNIT CONVERSION​
-      e.  EDA​
-      f.  FEATURE ENGINEERING​
-      g.  ENCODING TARGET​
-      h.  TRAIN/TEST SPLIT ​
-      i.  SCALING​
+ 1. Data collection​
+ 2. Preprocessing​
+      - DATA CHECKING​
+      - DATA CLEANING​
+      - VERIFY FEATURE UNIT​
+      - UNIT CONVERSION​
+      - EDA​
+      - FEATURE ENGINEERING​
+      - ENCODING TARGET​
+      - TRAIN/TEST SPLIT ​
+      - SCALING​
 4. Train model​
 5. Hyperparameter tuning​
 6. Evaluate and compare​
-   a. CROSS VALIDATION​
-   b. FINALE TEST EVALUATION​
-         i.   Confusion matrix of all 5 model with classification report​
-         ii.  Visual representation of confusion matrix​
-         iii. Classification report for best model​
-         iv.  Test accuracy​
-   c. FEATURE IMPORTANCE​
-   d. SCATTER PLOT FOR EVERY MODEl​
+   - CROSS VALIDATION​
+   - FINALE TEST EVALUATION​
+     - Confusion matrix of all 5 model with classification report​
+     - Visual representation of confusion matrix​
+     - Classification report for best model​
+     - Test accuracy​
+   - FEATURE IMPORTANCE​
+   - SCATTER PLOT FOR EVERY MODEl​
 
 ---
 
@@ -91,19 +91,23 @@ Target variable:
 ---
 
 ## Best Model
-**Logistic Regression** was selected as the best model because:
-- Highest test accuracy (97.5%)
-- Lowest error rate
-- Balanced precision, recall, and F1-score
-- Consistent performance across all price ranges
-- Good generalization in cross-validation
+- Logistic Regression​ Justification:​
+- Logistic Regression was selected as the best model because:​
+1. It achieved the highest test accuracy (97.5%)​
+2. It had the lowest error percentage (2.5%)​
+3. It showed consistent performance across all classes​
+4. Precision, recall, and F1-score were uniformly high​
+5. The confusion matrix showed minimal misclassification​
+6. The model generalized well during cross-validation​
+7. It is computationally efficient and easy to interpret​
 
 ---
 
 ## Files in This Repository
 - `ml_project.ipynb` → Complete Google Colab notebook with code and outputs  
 - `presentation.pptx` → Project presentation slides  
-- `project_report.pdf` → Detailed project report  
+- `project_report.docx` → Detailed project report
+- '  
 
 ---
 
