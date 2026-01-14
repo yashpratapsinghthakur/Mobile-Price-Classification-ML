@@ -48,7 +48,7 @@ Target variable:
 ## Project Workflow
 1. Data collection​
 2. Preprocessing​
-      a. DATA CHECKING​
+   a. DATA CHECKING​
       b. DATA CLEANING​
       c. VERIFY FEATURE UNIT​
       d. UNIT CONVERSION​
@@ -57,9 +57,9 @@ Target variable:
       g.  ENCODING TARGET​
       h.  TRAIN/TEST SPLIT ​
       i.  SCALING​
-3. Train model​
-4. Hyperparameter tuning​
-5. Evaluate and compare​
+4. Train model​
+5. Hyperparameter tuning​
+6. Evaluate and compare​
    a. CROSS VALIDATION​
    b. FINALE TEST EVALUATION​
          i.   Confusion matrix of all 5 model with classification report​
