@@ -15,12 +15,30 @@ The main objective is to **compare the performance of five different classificat
 
 ## Dataset
 The dataset contains various mobile phone features such as:
-- Battery power
-- RAM
-- Internal memory
-- Screen resolution
-- Camera features
-- Connectivity options  
+- Battery_power        ​
+- blue ​
+- clock_speed ​
+- dual_sim ​
+- fc ​
+- four_g ​
+- int_memory ​
+- m_dep ​
+- mobile_wt ​
+- n_cores ​
+- pc ​
+- px_height ​
+- px_width ​
+- ram ​
+- sc_h ​
+- sc_w ​
+- talk_time ​
+- three_g ​
+- touch_screen ​
+- Wifi ​
+- price_range (target) ​
+
+​
+​ 
 
 Target variable:
 - **price_range** (0 = Low, 1 = Medium, 2 = High, 3 = Very High)
