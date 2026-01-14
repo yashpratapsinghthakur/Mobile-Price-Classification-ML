@@ -107,7 +107,7 @@ Target variable:
 ## Files in This Repository
 - `ml_project.ipynb` → Complete Google Colab notebook with code and outputs  
 - `presentation.pptx` → Project presentation slides  
-- `project_report.docx` and `project_report.pdf` → Detailed project report
+- `project_report.pdf` → Detailed project report
 - `mobile_price_range_data.csv` → Dataset  
 
 ---
