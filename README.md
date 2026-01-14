@@ -107,7 +107,7 @@ Target variable:
 - `ml_project.ipynb` → Complete Google Colab notebook with code and outputs  
 - `presentation.pptx` → Project presentation slides  
 - `project_report.docx` → Detailed project report
-- '  
+- `mobile_price_range_data.csv` → Dataset  
 
 ---
 
@@ -128,4 +128,4 @@ Copying, reusing, modifying, or redistributing any part of this code **without e
 ---
 
 ## Author
-Yash Thakur
+Yash Pratap Singh Thakur
