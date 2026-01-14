@@ -1,7 +1,7 @@
 # Mobile Price Range Prediction – Machine Learning Project
 
 ## Project Overview
-This project is my semester 1 project. My Program name is B.tech Hons. in CSE Specialization in AIML.
+This project is my semester1 group project. My Program name is B.tech Hons. in CSE Specialization in AIML.
 This project focuses on predicting the **price range of mobile phones** using machine learning techniques.  
 The main objective is to **compare the performance of five different classification models** and select the best-performing model based on multiple evaluation metrics.
 
