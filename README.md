@@ -122,9 +122,13 @@ Target variable:
 
 ---
 
-## Usage Restriction
-This repository is publicly visible **for academic review purposes only**.  
+## Usage Restriction 
 Copying, reusing, modifying, or redistributing any part of this code **without explicit permission from the author is strictly prohibited**.
+This project and all associated files are the **intellectual property of the author**.
+No part of this repository may be copied, reused, modified, or redistributed
+without **prior written permission from the author**.
+
+© 2026 Yash Thakur. All rights reserved.
 
 ---
 
