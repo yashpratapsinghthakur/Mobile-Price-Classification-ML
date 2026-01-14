@@ -46,23 +46,28 @@ Target variable:
 ---
 
 ## Project Workflow
-1. Data Loading and Checking  
-2. Data Cleaning (handling missing values and duplicates)  
-3. Feature Unit Verification and Conversion  
-4. Exploratory Data Analysis (EDA)  
-   - Target distribution  
-   - Correlation heatmap  
-   - Box plots  
-   - Feature distribution (Histogram + KDE)  
-5. Feature Engineering  
-6. Train–Test Split (80/20)  
-7. Feature Scaling (Standardization)  
-8. Model Training (5 models)  
-9. Hyperparameter Tuning (GridSearchCV)  
-10. Cross-Validation Comparison  
-11. Final Test Evaluation  
-12. Feature Importance Analysis  
-13. Visualization and Interpretation  
+1. Data collection​
+2. Preprocessing​
+      a. DATA CHECKING​
+      b. DATA CLEANING​
+      c. VERIFY FEATURE UNIT​
+      d. UNIT CONVERSION​
+      e.  EDA​
+      f.  FEATURE ENGINEERING​
+      g.  ENCODING TARGET​
+      h.  TRAIN/TEST SPLIT ​
+      i.  SCALING​
+3. Train model​
+4. Hyperparameter tuning​
+5. Evaluate and compare​
+   a. CROSS VALIDATION​
+   b. FINALE TEST EVALUATION​
+         i.   Confusion matrix of all 5 model with classification report​
+         ii.  Visual representation of confusion matrix​
+         iii. Classification report for best model​
+         iv.  Test accuracy​
+   c. FEATURE IMPORTANCE​
+   d. SCATTER PLOT FOR EVERY MODEl​
 
 ---
 
